@@ -1,0 +1,9 @@
+.menu{
+  left: 0;
+  width: 10%;
+  height: 95%;
+  position: absolute;
+}
+.ant-menu{
+    height: 100%;
+}

@@ -1,0 +1,26 @@
+.list{
+  width: 90%;
+  margin-left: 10%;
+  height: 90%;
+}
+.list-header{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+}
+.header-item{
+  margin-left: 10px;
+}
+.list-items{
+  height: 100%;
+}
+.item-action{
+  display: flex;
+  flex-direction: column;
+}
+.action{
+  cursor: pointer;
+}
+.ant-modal-footer{
+  display: flex;
+}

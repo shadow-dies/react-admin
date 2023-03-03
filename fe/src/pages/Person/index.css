@@ -1,0 +1,22 @@
+.check{
+  width: 90%;
+  margin-left: 10%;
+  height: 95%;
+  display: flex;
+  flex-direction: column;
+  line-height: 100px;
+  background-color: beige;
+  font-weight: 700;
+  font-size: large;
+}
+.ant-breadcrumb{
+  height: 5%;
+  display: table-cell;
+  font-weight: 500;
+}
+.infomation{
+  padding-left: 40%;
+}
+.info-title{
+  padding-right: 20%;
+}
